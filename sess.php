@@ -1,6 +1,6 @@
 <?php session_start(); 
 
-$_SESSION['name'] = 'changedNaniiiMahesh'; 
+$_SESSION['name'] = 'Pulling Request'; 
 
 echo $_SESSION ['nani'];
 
